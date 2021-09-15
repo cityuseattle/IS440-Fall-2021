@@ -28,4 +28,4 @@ Once you completed the Hands-on Practice, do the following to push your work to 
 2. Type the following command to upload your work:
     * `git add .` (to copy all changes you have made)
     * `git commit -m "Submission for Module 1 - Your name"` (To add a message to your submission)
-    * `git push origin master` (to upload your work to Github)
+    * `git push origin main` (to upload your work to Github)
